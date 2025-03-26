@@ -10,7 +10,7 @@ fun main() {
     println("Enter secondnumber:")
     var secondnumber = read.nextInt()
 
-    println("Enter operator:")
+    println("Enter operator(*,+,-,/):")
     var operator = readln()
 
     var answer = when(operator){
